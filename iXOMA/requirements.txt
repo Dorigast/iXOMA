@@ -1,7 +1,0 @@
-crewai>=0.28.8
-python-dotenv>=1.0.1
-ccxt>=4.3.0
-pandas>=2.2.2
-numpy>=1.26.4
-requests>=2.31.0
-rich>=13.7.1
